@@ -23,7 +23,7 @@ Number Nesting Game  is a simple C++ console-based game developed in C++.The pla
 * Nested conditional statements
 * Console-based output
 
-## 👩‍💻Technology Used
+## 👩‍💻Technologies Used
 
 * C++
 * Console
