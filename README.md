@@ -2,7 +2,7 @@
 
 Number Nesting Game  is a simple C++ console-based game developed in C++.The player has to guess a hidden number, and the program uses nested decision-making to check the player's guesses and display the appropriate result.
 
-## Screenshots
+## 📸Screenshots
 
 <table>
    <tr>
@@ -15,7 +15,7 @@ Number Nesting Game  is a simple C++ console-based game developed in C++.The pla
    </tr>
 </table>
 
-## Features
+## ✨Features
 
 * Number guessing gameplay
 * User input
@@ -23,7 +23,7 @@ Number Nesting Game  is a simple C++ console-based game developed in C++.The pla
 * Nested conditional statements
 * Console-based output
 
-## Technology Used
+## 👩‍💻Technology Used
 
 * C++
 * Console
